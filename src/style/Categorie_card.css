@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  width: 330px;
+  height: 330px;
+  padding-top: 25px;
+  border: 1px solid #dedede;
+  margin: 30px;
+}
+.card:hover {
+  box-shadow: 0 0 15px #ccc;
+  transform: translateY(-5px);
+}
+.im {
+  width: 300px;
+  min-height: 230px;
+  max-height: 230px;
+margin-bottom :15px;
+  border-bottom: 1px solid #dedede;
+  
+}
+#im_trax{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}

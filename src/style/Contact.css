@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#icone2 {
+  width: 25px;
+  position: absolute;
+  margin-left: 30px;
+}
+.phone {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.facebook {
+  display: flex;
+  align-items: center;
+}
+.mail {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.fax {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.localisation {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.contact {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  line-height: 35px;
+  background-color: rgb(105, 210, 79);
+  width: 460px;
+  margin-bottom: 80px;
+  padding-bottom: 30px;
+ border-top-left-radius: 20px;
+ border-bottom-left-radius: 20px;
+
+}
+h5 {
+  margin-left: 100px;
+  display: flex;
+  font-size: 15px;
+  flex-wrap: wrap;
+}
+.title {
+  display: flex;
+  justify-content: flex-start;
+  margin: 25px;
+  text-align: start;
+}
+.contactez-nous {
+  display: flex;
+  margin-top: 60px;
+  justify-content: center;
+ height: 600px;
+}
+.formulaire {
+  padding-top: 25px;
+  padding-left: 35px;
+  line-height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  text-align: start;
+  background-color: #f4f4f4;
+  height: 520px;
+  width: 700px;
+  border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+#input {
+  width: 400px;
+}
+#input_message {
+  width: 600px;
+  height: 160px;
+}
+#nn{
+    padding-bottom: 10px;
+}
+.pp{
+    margin-top: 100px;
+    font-family: "Raleway", sans-serif;
+
+}
+button{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+margin-left: 250px;
+height: 30px;
+align-items: center;
+}

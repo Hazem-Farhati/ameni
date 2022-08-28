@@ -1,0 +1,25 @@
+.list{
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    
+}
+.categories-1{
+    border:  1px solid black;
+    margin-top: 50px;
+}
+
+.nos-p img{
+    position: relative;
+}
+
+.nos-p .tit-p{
+    position: absolute;
+    z-index: 9999;
+    margin-top: -120px;
+text-align: center;
+width: 100%;
+color: aliceblue;
+font-size: 50px;
+}
